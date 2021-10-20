@@ -1,6 +1,6 @@
 # My Docs
 
-$MY_REPOS/[my-docs/README.md](./README.md)
+[My Repos](https://github.com/annebrown/?tab=repositories) > my-docs > README.md
 
 # Description
 
@@ -12,6 +12,4 @@ Contains all of my collected dev ref docs, including cheatsheets and notes.
 
 # [projects](./projects/Index.md)
 
-Links to my public 
-
-project docs.
+Links to my public project docs.

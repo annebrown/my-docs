@@ -1,8 +1,8 @@
 # Projects
 
-$MY_REPOS/[my-docs](../../Index.md)/[projects/Index.md](./Index.md)
+[My Repos](https://github.com/annebrown/?tab=repositories) > [My Docs](../README.md) >  projects > Index.md
 
-# # Description
+# Description
 
 Documentation on my public projects.
 
