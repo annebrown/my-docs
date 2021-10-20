@@ -1,6 +1,6 @@
 # ref
 
-$MY_REPOS/my-docs/ref/Index.md
+$MY_REPOS/[my-docs](../README.md)/[ref/Index.md](./Index.md)
 
 # Description
 
