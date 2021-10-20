@@ -1,9 +1,11 @@
-# Markdown
+# Projects
 
-$MY_REPOS/[my-docs](../../Index.md)/[ref](../Index.md)/[Markdown/Index.md](./Index.md)
+$MY_REPOS/[my-docs](../../Index.md)/[projects/Index.md](./Index.md)
 
-$MY_REPOS/my-docs/ref/Markdown/Index.md
+# # Description
+
+Documentation on my public projects.
 
 # Contents
 
-[Markdown Cheatsheet](./Markdown/Markdown-Cheatsheet.md)
+[My Devevelopment Environment Configuration](../../my-conf)
