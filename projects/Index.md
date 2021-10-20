@@ -8,4 +8,4 @@ Documentation on my public projects.
 
 # Contents
 
-[My Devevelopment Environment Configuration](../../my-conf)
+[My Devevelopment Environment Configuration](https://github.com/annebrown/my-conf.git)
