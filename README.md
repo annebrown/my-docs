@@ -6,17 +6,21 @@
 
 Docs to clone for an offline dev ref, including my notes and stuff collected from other sources.
 
-# Cheatsheets
+# Collections
 
-[Markdown](./markdown/Index.md)
+[Rico's Cheatsheets](https://devhints.io/) (online)
 
-## Collections
+# Markdown
 
-        [Rico's Cheatsheets](https://devhints.io/)    
+[Markdown Cheatsheet](./markdown/Index.md)
 
-## Manuals
+[Marktext Docs](../marktext/README.md)
 
-[Vim 7.4 Manual](./vim/VimManual.pdf)
+[Note: Why doesn't this link work?]
+
+## Vim
+
+ [Vim 7.4 Manual](./vim/VimManual.pdf)
 
 # See Also
 
