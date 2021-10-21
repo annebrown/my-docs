@@ -26,4 +26,4 @@ Links to my public projects.
 
 [My Devevelopment Environment Configuration](https://github.com/annebrown/my-conf.git)
 
-[IEEE Editor Tools]([GitHub - annebrown/org-IEEE-EditorTools: IEEE Editor Tools](https://github.com/annebrown/org-IEEE-EditorTools))
+[IEEE Editor Tools](https://github.com/annebrown/org-IEEE-EditorTools)
