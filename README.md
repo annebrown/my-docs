@@ -4,7 +4,7 @@
 
 # Description
 
-Docs to clone for an off the grid def ref.
+Docs to clone for an offline dev ref.
 
 Contains dev docs, including my notes, and cheatsheets and manuals collected from other sources.
 
