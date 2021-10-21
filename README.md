@@ -4,12 +4,26 @@
 
 # Description
 
-This is the Index of all of my public development docs.
+Docs to clone for an off the grid def ref.
 
-# [ref](./ref/Index.md)
+Contains dev docs, including my notes, and cheatsheets and manuals collected from other sources.
 
-Contains all of my collected dev ref docs, including cheatsheets and notes.
+# Cheatsheets
 
-# [projects](./projects/Index.md)
+[Markdown](./markdown/Index.md)
 
-Links to my public project docs.
+## Collections
+
+        [Rico's Cheatsheets](https://devhints.io/)    
+
+## Manuals
+
+[Vim 7.4 Manual](./vim/VimManual.pdf)
+
+# See Also
+
+Links to my public projects.
+
+[My Devevelopment Environment Configuration](https://github.com/annebrown/my-conf.git)
+
+[IEEE Editor Tools]([GitHub - annebrown/org-IEEE-EditorTools: IEEE Editor Tools](https://github.com/annebrown/org-IEEE-EditorTools))
