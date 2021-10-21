@@ -6,7 +6,7 @@
 
 Docs to clone for an offline dev ref.
 
-Contains dev docs, including my notes, and cheatsheets and manuals collected from other sources.
+Contains dev docs, including my notes and stuff collected from other sources.
 
 # Cheatsheets
 
