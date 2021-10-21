@@ -14,7 +14,7 @@ Docs to clone for an offline dev ref, including my notes and stuff collected fro
 
 [Markdown Cheatsheet](./markdown/Index.md)
 
-[Marktext Docs](/../../marktext/README.md)
+[Marktext Docs](/../marktext/README.md)
 
 [Note: Why doesn't this link work?]
 
