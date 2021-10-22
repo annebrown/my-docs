@@ -16,6 +16,8 @@ Docs to clone for an offline dev ref, including my notes and stuff collected fro
 
  [Vim 7.4 Manual](./vim/VimManual.pdf)
 
+[Vim Cheatsheet](./vim/vim-cheat-sheet.pdf)
+
 # See Also
 
 Links to my public projects.
@@ -23,3 +25,4 @@ Links to my public projects.
 [Devevelopment Environment Configuration](https://github.com/annebrown/my-conf.git)
 
 [IEEE Editor Tools](https://github.com/annebrown/org-IEEE-EditorTools)
+)
