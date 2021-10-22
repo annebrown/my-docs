@@ -8,7 +8,7 @@ Docs to clone for an offline dev ref, including my notes and stuff collected fro
 
 # Markdown
 
-[Markdown Cheatsheet](./markdown/Index.md)
+[Markdown Cheatsheet](./markdown/Markdown-Cheatsheet.md)
 
 [Marktext Docs](./markdown/marktext-docs/README.md)
 
