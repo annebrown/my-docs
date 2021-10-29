@@ -4,7 +4,7 @@
 
 # Description
 
-Public docs to clone for an offline dev ref on a fresh OS, Includes my notes and stuff collected from other sources.
+Public docs to clone for an offline dev ref on a fresh OS. Includes my notes and stuff collected from other sources.
 
 # Markdown
 
