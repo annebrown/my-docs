@@ -4,7 +4,7 @@
 
 # Description
 
-Docs to clone for an offline dev ref, including my notes and stuff collected from other sources.
+Public docs to clone for an offline dev ref on a fresh OS, Includes my notes and stuff collected from other sources.
 
 # Markdown
 
@@ -24,5 +24,4 @@ Links to my public projects.
 
 [Devevelopment Environment Configuration](https://github.com/annebrown/my-conf.git)
 
-[IEEE Editor Tools](https://github.com/annebrown/org-IEEE-EditorTools)
-)
+[IEEE Editor Tools](https://github.com/annebrown/org-IEEE-EditorTools)   
